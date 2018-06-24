@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2E4BAB8A-8870-49C0-8F35-92D18C2FD409}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Customer.cs">
+    <Files>
+      <File FileName="Pages/Index.cshtml" Line="9" Column="1" />
+      <File FileName="Pages/Index.cshtml.cs" Line="16" Column="58" />
+      <File FileName="Pages/Create.cshtml" Line="16" Column="8" />
+      <File FileName="Pages/Create.cshtml.cs" Line="18" Column="22" />
+      <File FileName="Startup.cs" Line="36" Column="38" />
+      <File FileName="Data/Customer.cs" Line="9" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AspNetCoreTodo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

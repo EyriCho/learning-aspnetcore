@@ -1,0 +1,13 @@
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/bin/Debug/netcoreapp2.0/app.db
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/bin/Debug/netcoreapp2.0/AspNetCoreTodo.deps.json
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/bin/Debug/netcoreapp2.0/AspNetCoreTodo.runtimeconfig.json
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/bin/Debug/netcoreapp2.0/AspNetCoreTodo.runtimeconfig.dev.json
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/bin/Debug/netcoreapp2.0/AspNetCoreTodo.dll
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/bin/Debug/netcoreapp2.0/AspNetCoreTodo.pdb
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/AspNetCoreTodo.csprojResolveAssemblyReference.cache
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/AspNetCoreTodo.csproj.CoreCompileInputs.cache
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/AspNetCoreTodo.AssemblyInfoInputs.cache
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/AspNetCoreTodo.AssemblyInfo.cs
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/AspNetCoreTodo.dll
+/Users/eyricho/Project/learning/aspdotnetcore/AspNetCoreTodo/obj/Debug/netcoreapp2.0/AspNetCoreTodo.pdb
